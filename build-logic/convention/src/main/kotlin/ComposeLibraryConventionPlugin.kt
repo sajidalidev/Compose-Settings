@@ -73,6 +73,9 @@ class ComposeLibraryConventionPlugin : Plugin<Project> {
         iosArm64()
         iosSimulatorArm64()
 
+        tvosArm64()
+        tvosSimulatorArm64()
+
         js(IR) {
           browser()
           binaries.executable()

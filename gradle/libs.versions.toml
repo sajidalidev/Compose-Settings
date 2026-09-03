@@ -28,8 +28,8 @@ compose-detekt-rules = "0.0.26"
 mavenPlugin = "0.37.0"
 
 # Other Libraries
-compose-material3 = "1.9.0"
-compose-material3-expressive = "1.11.0-alpha02"
+compose-material3 = "1.12.0-alpha03"
+compose-material3-expressive = "1.12.0-alpha03"
 
 [libraries]
 # AndroidX

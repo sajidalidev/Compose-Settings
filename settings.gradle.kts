@@ -11,6 +11,14 @@ pluginManagement {
   }
 }
 
+plugins {
+  id("dev.sajidali.compose-tvos") version "1.4.1"
+}
+
+composeTvos {
+  verbose.set(true)
+}
+
 dependencyResolutionManagement {
   repositories {
     google()
